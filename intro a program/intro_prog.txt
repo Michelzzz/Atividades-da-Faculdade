@@ -1,9 +1,17 @@
 Atividade introducao a programacao
 
+Inicio
 Contar o numero de alunos
+Separar um aluno dos demais
+Ler a primeira nota
+Ler a segunda nota
+Calcular a media da primera e segunda nota
+Imprimir media do aluno
+Se o numero de alunos for zero finalizar codigo
+Caso exista alunos, continuar codigo do Inicio
 
 
 git add (nome do arquivo)
 git commit -m (mensagem)
-git push origin main
+git push origin (branch que voce ta)
 
